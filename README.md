@@ -1,2 +1,0 @@
-# fosskavre.github.io
-GITHUB PAGE OF FOSS COMMUNITY KAVRE
